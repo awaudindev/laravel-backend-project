@@ -38,7 +38,9 @@ Here are the link to mobile apps and nuxt.js pwa repository:
 
 ## Prerequisite
 
-Setup [PostgreSQL](https://www.prisma.io/dataguide/postgresql/setting-up-a-local-postgresql-database) on your local environment.
+* Install [Composer](https://getcomposer.org/download/)
+* Setup [PostgreSQL](https://www.prisma.io/dataguide/postgresql/setting-up-a-local-postgresql-database) on your local environment.
+* Install [nodejs](https://nodejs.org/en/download) prefer v20.*.*
 
 ## Getting Started
 

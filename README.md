@@ -40,6 +40,36 @@ Here are the link to mobile apps and nuxt.js pwa repository:
 
 Setup [PostgreSQL](https://www.prisma.io/dataguide/postgresql/setting-up-a-local-postgresql-database) on your local environment.
 
+Copy the .env.example and rename it .env, Update your .env configuration file.
+
+```bash
+DB_CONNECTION=pgsql
+DB_HOST=127.0.0.1
+DB_PORT=5433
+DB_DATABASE=laravel
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+Dont forget to run composer.
+
+```bash
+composer Install
+```
+
+Generate the app key
+
+```bash
+php artisan key:generate
+```
+
+Running the laravel
+
+```bash
+php artisan serve
+```
+
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.

@@ -36,9 +36,11 @@ Here are the link to mobile apps and nuxt.js pwa repository:
 * [![Nuxt][Nuxt-repo]][Nuxt-url]
 * [![Flutter][Flutter-repo]][Flutter-url]
 
-## Getting Started
+## Prerequisite
 
 Setup [PostgreSQL](https://www.prisma.io/dataguide/postgresql/setting-up-a-local-postgresql-database) on your local environment.
+
+## Getting Started
 
 Copy the .env.example and rename it .env, Update your .env configuration file.
 

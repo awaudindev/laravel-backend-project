@@ -36,6 +36,10 @@ Here are the link to mobile apps and nuxt.js pwa repository:
 * [![Nuxt][Nuxt-repo]][Nuxt-url]
 * [![Flutter][Flutter-repo]][Flutter-url]
 
+## Getting Started
+
+Setup [PostgreSQL](https://www.prisma.io/dataguide/postgresql/setting-up-a-local-postgresql-database) on your local environment.
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
